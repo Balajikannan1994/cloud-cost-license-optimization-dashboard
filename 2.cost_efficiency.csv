@@ -1,0 +1,16 @@
+﻿DEPARTMENT,REGION,COST_PER_HOUR
+Sales,Ap-South-1,0.24
+It,Us-East-1,0.26
+Finance,Us-East-1,0.29
+Sales,Us-East-1,0.27
+Hr,Ap-South-1,0.25
+Hr,Eu-West-1,0.33
+Marketing,Eu-West-1,0.21
+Marketing,Ap-South-1,0.28
+Finance,Ap-South-1,0.32
+It,Ap-South-1,0.37
+Sales,Eu-West-1,0.23
+Marketing,Us-East-1,0.18
+Finance,Eu-West-1,0.14
+It,Eu-West-1,0.39
+Hr,Us-East-1,0.27
